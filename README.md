@@ -1,5 +1,3 @@
-# CLT Accessibility Week Game Fall 2022: "Dalhousie Accessibility Week Visual Novel Game"
-
 ## Welcome!
 Welcome to the CLT Accessibility Week Game Source Code Directory! Within this file is a quick small walkthrough to set things up, provide an overview of the projects purpose and provide a list of resources and references used in developing this project as well as a list of everyone involved in contributing to this project! 
 
@@ -37,6 +35,18 @@ From November 27th to December 3rd 2022 is Accessibility Week at Dalhousie Unive
     - The (dis)Ability Caucus and other related entity groups who helped to compile and create the stories used in our game. Members of our team helped to edit them into scripts that can be easily integrated into game.
     - Maria McNeil from the Student Accessibility Center who provided initial guidance and support of what to consider in making our game accessible.
 
+- **Winter 2023 Project Team Members (8 Members):**
+    - Team Directors (2):
+        - Development Director: Jonathan Robichaud
+        - Technical Director: Thomas Hong
+    - Development Team (8):
+        - Zephyr Xyd Espino (Me)
+        - Keenan Baird
+        - Sofia Rincon Parada
+        - Yisong Zhao
+        - Yahia Abou El Fetouh
+        - Dorian Germain Zambo Zambo
+
 - **Fall 2022 Project Team Members (10 Members):**
     - Team Directors (2):
         - Development Director: Tom Campbell
@@ -64,7 +74,3 @@ From November 27th to December 3rd 2022 is Accessibility Week at Dalhousie Unive
     - **Accessibility Plugins**:
         - BDKCreate - Text Resizing
         - UAP (Unity Accessibility Plugin)
-
-
-## References & Citations (APA):
-TBD.
