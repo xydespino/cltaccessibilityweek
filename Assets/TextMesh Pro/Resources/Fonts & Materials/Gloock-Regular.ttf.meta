@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2955e7c35b1db4e5aa9c540f0c8a44ff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gloock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 137ec7948dc864cf5977078610ba112f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
