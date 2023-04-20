@@ -1,5 +1,12 @@
 ## Welcome!
-Welcome to the CLT Accessibility Week Game Source Code Directory! Within this file is a quick small walkthrough to set things up, provide an overview of the projects purpose and provide a list of resources and references used in developing this project as well as a list of everyone involved in contributing to this project! 
+Welcome to the CLT Accessibility Week Game Source Code Directory! 
+
+<img width="1245" alt="Main Menu" src="https://user-images.githubusercontent.com/101380933/233292733-d65351b9-0728-43f9-ac7e-e9643aa16e22.png">
+<img width="1432" alt="In game" src="https://user-images.githubusercontent.com/101380933/233292753-dfe8137f-5f31-4ecc-ad36-25234325f811.png">
+
+
+
+Within this file is a quick small walkthrough to set things up, provide an overview of the projects purpose and provide a list of resources and references used in developing this project as well as a list of everyone involved in contributing to this project! 
 
 This project was built using Unity and was first initially launched on September 2022 with hopes that it'd be released by November 27th, 2022 for Accessibility Week. The game's 1st official release was on December 10th, 2022 with 3 stories.
 
